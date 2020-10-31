@@ -1,5 +1,4 @@
-# projetinho
-Análise da deterioração da Floresta Amazônica Brasileira
+# Análise da deterioração da Floresta Amazônica Brasileira
 
 Grupo: Dayane Felipe e Davi Martins
 
